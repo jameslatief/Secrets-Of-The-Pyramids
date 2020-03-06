@@ -7,6 +7,8 @@ environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
+  page_turn: ^1.0.0
+  animated_text_kit: ^2.0.0
   flutter:
     sdk: flutter
   cupertino_icons: ^0.1.2
@@ -15,7 +17,11 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
+
+
 flutter:
   uses-material-design: true
   assets:
   - images/
+  - images/coverpage/
+  - images/story/
