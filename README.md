@@ -19,9 +19,9 @@
 **Things added:**
 1. Book coverpage(first 4 pages)
 2. Transition from coverpage to main book content
-3. 116 pages of text and image content from the original Choose Your Own Adventures #19: Secret of the Pyramids Book by Richard Brightfield.
-4. Restart functionality after reaching The End 
-5. Glowing scroll down logo 
+3. 116 pages of text and image content(found in story_brain.dart)
+4. Restart functionality after reaching The End.
+5. Glowing Scroll Down logo 
 6. Scrolling text that always start from the top.
 7. Page numbers
 8. New app icon and name (Android + iOS)
